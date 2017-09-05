@@ -1,0 +1,21 @@
+@import "settings";
+body{
+  color: $color;
+}
+
+header{
+  background: url('images/header.jpg');
+}
+
+.box2{
+  background:$bg-lightgrey;
+}
+
+.box4{
+  background:$bg-dark;
+}
+
+.box5{
+  background:$bg-black;
+  color:$color-white;
+}

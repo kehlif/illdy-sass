@@ -1,0 +1,17 @@
+body {
+  color: black; }
+
+header {
+  background: url("images/header.jpg"); }
+
+.box2 {
+  background: lightgrey; }
+
+.box4 {
+  background: #222F36; }
+
+.box5 {
+  background: black;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */
